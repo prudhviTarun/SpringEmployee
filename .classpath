@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/cdi-api-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/classmate-1.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/commons-pool-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/el-api-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/hibernate-core-5.2.4.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/hibernate-validator-4.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/jackson-annotations-2.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/jackson-core-2.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/jackson-databind-2.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/jackson-dataformat-xml-2.8.5.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/jackson-module-jaxb-annotations-2.8.5.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/jandex-2.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/javax.el_2.2.0.v201303151357.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/javax.servlet.jsp.jstl-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/mysql-connector-java-5.1.35.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/org.apache.commons.logging_1.1.1.v201101211721.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/slf4j-simple-1.7.10.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/spring-aop-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/spring-beans-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/spring-context-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/spring-context-support-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/spring-core-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/spring-expression-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/spring-jdbc-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/spring-orm-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/spring-test-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/spring-tx-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/spring-web-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/spring-webmvc-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/validation-api-1.0.0.GA (1).jar"/>
+	<classpathentry kind="lib" path="D:/SpringHibernateJAR/woodstox-core-5.0.3.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
